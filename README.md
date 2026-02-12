@@ -18,3 +18,12 @@ export default defineConfig({
 # Import tailwind to the index.css file
 
 `@import "tailwindcss";`
+
+# How to clone the template
+
+`git clone https://github.com/Adrien-nkc/LOGIN.git`
+
+# Enter the project and install dependencies
+
+`cd LOGIN`
+`npm install`
